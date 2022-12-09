@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AbhiSharma999
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning DSA
+- 👋 Hi, I’m Abhishek Sharma
+- 👀 I’m interested in creating new projects
+- 🌱 I’m currently learning DSA and Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abhisharma6803@gmail.com
 
