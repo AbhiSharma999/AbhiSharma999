@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Sharma
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning DSA and Web development
+- 👀 Data Analyst
+- 🌱 Interested in SDE or Data Analyst roles
 - 📫 Reach me at abhisharma6803@gmail.com
 
 <!---
